@@ -74,11 +74,11 @@
 
 ### 代码组成饼状图
 
-![](.\pie.png)
+![](https://github.com/Maozu/count_line/blob/master/pie.png)
 
 ### 每一次运行代码改变情况
 
-![](.\line.png)
+![](https://github.com/Maozu/count_line/blob/master/line.png)
 
 ## 最后
 
