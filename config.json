@@ -8,7 +8,15 @@
     "vue.js",
     "vue.min.js",
     "bootstrap.css",
-    "bootstrap.min.css"
+    "bootstrap.min.css",
+    "jquery-3.2.1.js",
+    "jquery-3.2.1-min.js"
+  ],
+  "IGNORE_DIR": [
+  	".git",
+  	".idea",
+    "venv",
+    "cmake-build-debug"
   ],
   "COUNT_FILE": [
     ".c",
